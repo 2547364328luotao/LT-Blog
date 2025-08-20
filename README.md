@@ -2,8 +2,6 @@
 
 本网站使用 **Astro** 框架和 [Mizuki](https://github.com/matsuzaka-yuki/mizuki) 主题构建。
 
-::github{repo="matsuzaka-yuki/Mizuki"}
-
 ## 🌟 主题特点
 
 ### 🎨 设计与用户体验
