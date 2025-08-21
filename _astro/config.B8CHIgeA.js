@@ -1,0 +1,1 @@
+var u=(a=>(a[a.Home=0]="Home",a[a.Archive=1]="Archive",a[a.About=2]="About",a[a.Friends=3]="Friends",a[a.Anime=4]="Anime",a[a.Diary=5]="Diary",a))(u||{});const i="zh_CN",o={lang:i,banner:{carousel:{enable:!0,interval:5}}};u.Home,u.Archive,u.About,u.Friends,u.Anime,u.Diary;const t={theme:"github-dark"};export{t as e,o as s};
