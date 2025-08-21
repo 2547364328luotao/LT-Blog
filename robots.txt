@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://blog.mysqil.com/sitemap-index.xml
+Sitemap: https://blog.20050508.xyz/sitemap-index.xml
