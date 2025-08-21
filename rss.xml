@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>笙箫如夢</title><description>One demo website</description><link>https://blog.mysqil.com/</link><language>zh_CN</language><item><title>博客公告</title><link>https://blog.mysqil.com/posts/blog-announcement/</link><guid isPermaLink="true">https://blog.mysqil.com/posts/blog-announcement/</guid><description>我的个人博客正式上线啦，欢迎大家关注与交流！</description><pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;🎉 博客正式上线啦！&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>笙箫如夢</title><description>One demo website</description><link>https://blog.20050508.xyz/</link><language>zh_CN</language><item><title>博客公告</title><link>https://blog.20050508.xyz/posts/blog-announcement/</link><guid isPermaLink="true">https://blog.20050508.xyz/posts/blog-announcement/</guid><description>我的个人博客正式上线啦，欢迎大家关注与交流！</description><pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;🎉 博客正式上线啦！&lt;/h1&gt;
 &lt;p&gt;大家好，欢迎来到我的个人博客：&lt;a href=&quot;https://blog.20050508.xyz/&quot;&gt;https://blog.20050508.xyz/&lt;/a&gt;！&lt;/p&gt;
 &lt;p&gt;这是我刚刚建立的一个分享与交流的平台。未来我会在这里记录学习、生活、技术成长的点滴，也会分享一些有趣的见解和经验。如果你对我的内容感兴趣，欢迎常来看看、留言互动！&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本博客计划内容包括：&lt;/strong&gt;&lt;/p&gt;
@@ -14,7 +14,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;—— 博主 2547364328luotao&lt;br /&gt;
 2025年8月21日&lt;/p&gt;
-</content:encoded></item><item><title>Markdown Tutorial</title><link>https://blog.mysqil.com/posts/markdown-tutorial/</link><guid isPermaLink="true">https://blog.mysqil.com/posts/markdown-tutorial/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Markdown 教程&lt;/h1&gt;
+</content:encoded></item><item><title>Markdown Tutorial</title><link>https://blog.20050508.xyz/posts/markdown-tutorial/</link><guid isPermaLink="true">https://blog.20050508.xyz/posts/markdown-tutorial/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Markdown 教程&lt;/h1&gt;
 &lt;p&gt;这是一个完整的 Markdown 语法示例文档，展示了如何编写 Markdown 文件。本文档涵盖了核心语法和扩展语法（GitHub Flavored Markdown）。&lt;/p&gt;
 &lt;h2&gt;目录&lt;/h2&gt;
 &lt;ul&gt;
@@ -355,7 +355,7 @@ id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
 &lt;h4&gt;围栏代码块&lt;/h4&gt;
 &lt;p&gt;只需用 &lt;code&gt;```&lt;/code&gt; 包围你的代码（如下所示），就不需要缩进四个空格了。&lt;/p&gt;
 &lt;p&gt;代码：&lt;/p&gt;
-</content:encoded></item><item><title>Markdown Example</title><link>https://blog.mysqil.com/posts/markdown/</link><guid isPermaLink="true">https://blog.mysqil.com/posts/markdown/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;An h1 header&lt;/h1&gt;
+</content:encoded></item><item><title>Markdown Example</title><link>https://blog.20050508.xyz/posts/markdown/</link><guid isPermaLink="true">https://blog.20050508.xyz/posts/markdown/</guid><description>A simple example of a Markdown blog post.</description><pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;An h1 header&lt;/h1&gt;
 &lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;
 &lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code&gt;monospace&lt;/code&gt;. Itemized lists
 look like:&lt;/p&gt;
@@ -476,7 +476,7 @@ math should get its own line and be put in in double-dollarsigns:&lt;/p&gt;
 &lt;p&gt;$$I = \int \rho R^{2} dV$$&lt;/p&gt;
 &lt;p&gt;And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
-</content:encoded></item><item><title>Include Video in the Posts</title><link>https://blog.mysqil.com/posts/video/</link><guid isPermaLink="true">https://blog.mysqil.com/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
+</content:encoded></item><item><title>Include Video in the Posts</title><link>https://blog.20050508.xyz/posts/video/</link><guid isPermaLink="true">https://blog.20050508.xyz/posts/video/</guid><description>This post demonstrates how to include embedded video in a blog post.</description><pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;---
 title: Include Video in the Post
 published: 2023-10-19
